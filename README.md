@@ -5,7 +5,7 @@
 - 🔨 My current project is an annonymous chat App called GoChat
 - 😃 I like to play chess and videogames.
 
-Linkedin - [<img align="left" alt="linkedin icon" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]
+[<img alt="linkedin icon" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]
 
 <img alt="cat gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif">
 

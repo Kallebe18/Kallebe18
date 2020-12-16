@@ -7,4 +7,6 @@
 
 Linkedin - [<img align="left" alt="linkedin icon" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]
 
+[<img align="center" alt="cat gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif">]
+
 [linkedin]: https://www.linkedin.com/in/kallebe-gomes-bezerra-851a8a197/

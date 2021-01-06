@@ -3,7 +3,6 @@
 ## I'm a programmer and student 📚
 - 🎯 My goal is to solve problems and help my team
 - 👨‍💻 Working as an intern at the company Gestão.Online
-- 🔨 My current project is an annonymous chat App called GoChat
 - 😃 I like to play chess and videogames.
 
 [<img alt="linkedin icon" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]

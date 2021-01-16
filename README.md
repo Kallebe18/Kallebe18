@@ -5,8 +5,22 @@
 - 👨‍💻 Working as an intern at the company Gestão.Online
 - 😃 I like to play chess and videogames.
 
-[<img alt="linkedin icon" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]
+<div align="center">
 
-<img alt="cat gif" src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif">
+[<img alt="linkedin icon" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg"/>][linkedin]
+
+</div>
+
+
+<div align="center">
+
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://github.com/Kallebe18/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Kallebe18/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
 
 [linkedin]: https://www.linkedin.com/in/kallebe-gomes-bezerra-851a8a197/

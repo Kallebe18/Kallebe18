@@ -2,8 +2,7 @@
 
 ## I'm a programmer and student 📚
 - 🎯 My goal is to solve problems and help my team
-- 👨‍💻 Working as an intern at the company Gestão.Online
-- 😃 I like to play chess and videogames.
+- 👨‍💻 Working as an intern at the company Gestão.Online.
 
 <div align="center">
 
